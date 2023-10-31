@@ -1,4 +1,4 @@
-# Getting Started
+## Getting Started
 
 ```php
 composer install
@@ -8,3 +8,9 @@ php artisan migrate
 ```
 
 set OPENAI_KEY in .env
+
+## Start using
+
+```php
+php artisan synth
+```
